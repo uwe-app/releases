@@ -1,0 +1,306 @@
+{
+  "versions": {
+    "0.40.0": {
+      "macos": {
+        "uvm": "775d91ec95188c4916b13b08955bb48a8fa88e0c708496938dc578e275e0a62b",
+        "upm": "18f9f3d88986d205e55ffb5d6915dd14b8ea5c6c9dbfc90c0d4f1aed8721e322",
+        "uwe": "c0815fcc82221bb61b777ad7cc55e7f7142926c2f68676a6f3915906a35eda01"
+      },
+      "linux": {
+        "upm": "bee6d5a9c98e468a7be82bfe7d44fd7a65ef11d1ba4f4268448a050f60c1853b",
+        "uvm": "a2479bc43fd2a5f0bc67315321486d1e3ff59a78b9b319a715201e9ddb2fce6a",
+        "uwe": "2a66a510172adb6a8813809430f8e2764eb0e5907b232fc93dd2c9727d4c76ba"
+      }
+    },
+    "0.40.1": {
+      "linux": {
+        "uws": "4f662797824878d224b78c5b101b8fd6190b3811b9f348afcfa7afd591f54082",
+        "uvm": "e1661fe927b6e7a54a14c86554163b5d0a261bf8e6ecffae96ea7d6da5257660",
+        "upm": "9e40e1efcc6bf93229d06defe8ce2e1a32346381aa646638ae105d7de5ca2ea4",
+        "uwe": "6fd9c071612291711a8e445b4aa8e0ce7b4a7dcc809622a5719f2fd18f25af87"
+      },
+      "macos": {
+        "upm": "ba76d081a9370590095317e475f4c703b31e5aaa4f3375a0fb222cfa88cc48a6",
+        "uvm": "f232fd6f2901aa9ed1a2cc94b01f6873cf2d23440f5a0de538ba1c58d73af987",
+        "uwe": "e900fd7922fe7d0469b078e75936854c795fe50d0ca3daf93fc73c1c65e8e582",
+        "uws": "8adfeb9f2c372e1337fe376e0b0c6122f4abc9eb37310324a38c08ff4db32322"
+      }
+    },
+    "0.40.2": {
+      "linux": {
+        "upm": "eeed1e38c2396dd73bda36140f9a9ddc1289c618fa592ab98c73d04434a5d257",
+        "uwe": "7cc4174cb28c2cc3fcfe4acd2372c1cd4c7ab2845ab620be2288ab4b429c00e9",
+        "uvm": "8c71f5042e8e9d56f50e15a9d37fa03119a0259cb94adf64411327675557a223"
+      },
+      "macos": {
+        "uvm": "1b843078dd4b4db157018918b99ebeab32932f6ef543ddd9dde21cadb0de2863",
+        "upm": "6997e7e11f0a0f368ffafa3e37b920d6e276382b81ae6870a8c1180bb936e524",
+        "uwe": "52b8fdfb71533ec07196a565b4fb400494e814c7b01308ae64365cf150e2d75a"
+      }
+    },
+    "0.40.3": {
+      "linux": {
+        "uwe": "9b478e4a3035371c5d1f8a318b6b7d7bcadb2dae8dc8d5f84b1997cea5361b0a",
+        "upm": "06cfba419940c762684e63b55bd2e361de0b5ff2a9bb73ad9c7a95deb30a72b7",
+        "uvm": "b8d2044a3c6b0b112f3d798c4815094abf2cfc792fbb7f0ab6478c37ddb288d2"
+      },
+      "macos": {
+        "uvm": "07dd1e706fd4bf0912aa5f4faa887dddf917d569da2cda999b1f7f761cc59b21",
+        "uwe": "f1a35cfca8cc563fdeeee2fbaf57d02832e553e655088e14eb8e11cc6dd7b706",
+        "upm": "b0ab0506219a1f45827d467728c3bdafbaca121d0974cd8cc563c8138e805ffb"
+      }
+    },
+    "0.40.5": {
+      "macos": {
+        "uvm": "b48f9a3aa99be013b48edf0349ab9c17487967d18fe01c83952d4d4a2b2e5889",
+        "upm": "86b30d541f37212c1e8cb442285766832bbb7169f4528ddd3b0c4ed2b255cfd3",
+        "uwe": "a05508411f8ae9b60746ff0a0d140238c482ee717a36122bffc19a62d9a1ff5d"
+      },
+      "linux": {
+        "uvm": "9373dce19749b650138a6bc143b3c6c5187c279fff52c451339854ac77f2e0f4",
+        "uwe": "3fca17f5aa5040f8a78e703b4a8dbc05237686af321460c934f882bcac553168",
+        "upm": "6d87f64bb948905989c4aeb2a80b2816305286bf82f9493bd91fc9f1e3e3160f"
+      }
+    },
+    "0.40.7": {
+      "linux": {
+        "uwe": "0a115eace79e140389aef10174678659a83fcea3bb41f7a7ed3c68fd98063f16",
+        "uvm": "0ff393e445a0322b088cf2ec3f9042e0ee739992b3c578a8ad8118a0e1c92a7b",
+        "upm": "92722fc3e030d0bfdb2b2ea5089ca9ecdb18368344cbda7669864dcc05200e56"
+      },
+      "macos": {
+        "uvm": "453282f3073613c2e6b8e40bf86493532edb571d414feee3923c16cc4ed63cf5",
+        "upm": "3de6cf1be08c8c0b3d2611458d4e34a16dbfe123f18339173bbec4350eecd3e3",
+        "uwe": "4e6a127648dad8c7ca112bc03781340e3b687e17d1c77cf15b75ec16a03bde59"
+      }
+    },
+    "0.40.8": {
+      "linux": {
+        "uvm": "16350369ae1c3494feb8c236d192a7a9aeb27b0357a4e1da6150215edd2e53d5",
+        "uwe": "161e31a39e387a51b4f91730f275bd2f3d692cacb61112c8aca94f8f81200e70",
+        "upm": "cc3844887d2e9dfbdbf6604f8f13371074f9002b75d0eab298465009e4fbee18"
+      },
+      "macos": {
+        "upm": "df40b197f62ff86dd50a01edf65753623f6bbb130e07a5d6f0749c6540ce1b6e",
+        "uwe": "765dcb53bab96b6ada1b2a2f4394287679b554285929ca00c4ddd365576fb7ae",
+        "uvm": "17d9220ab2abd93ea783e8f12258007e11b6f566b0a20b4b8d3dbd852e789af1"
+      }
+    },
+    "0.40.9": {
+      "macos": {
+        "uvm": "2a0a553dcc1d85a44b37798a77a6b1b2a1b6f1e43e1a7bb1380412eec298f632",
+        "upm": "ea3683efd63c95c1166985ebf70afd39c2b4ff735aaa96f930c71776cfb0fa2b",
+        "uwe": "7948cd23f6a11a55eadaa905a0b5519a3c845072e27e9a0487d3e2d20d2acc08"
+      },
+      "linux": {
+        "uvm": "e50fdd185cb31ad089b805968a5047ba126666b4051fe064e7e99e2c88bf6d77",
+        "uwe": "87c314ea8321e141dd43cf1e8b07263e95a8b31ef74729d7351a5f31f3c29d2c",
+        "upm": "72638e3f5e907f6caa6c1a3ebe102bf41082b1919ac709175316dc25e39a8803"
+      }
+    },
+    "0.40.10": {
+      "linux": {
+        "uwe": "e2ba889de68a1dc25eb0aa98448322eab85d1c4f2599526d8bc11f54f3d91ab1",
+        "uvm": "b9323229c94fbd90c692bab45e7d6d69706dcc3999a11d85dd8a0d3874ffee55",
+        "upm": "d876cbfa08e4786a1eb2f41ea956b427d04fd6a208517bbe48ae2f5298430b28"
+      },
+      "macos": {
+        "upm": "0cad745f84a49780216c269d8d4898513f59101208e21bfc331387a18946ba4a",
+        "uvm": "8f3c47debf4a28efa278540f26000343e003e0f6aa8d23079e4379089835d902",
+        "uwe": "b3f7453703f3d3e63aa6a76c4474a6ef197a2973b87a55e1e4390a0932d7da19"
+      }
+    },
+    "0.40.11": {
+      "linux": {
+        "uvm": "8cfc877432e5bcb4c435cdfbf480117a946ff8012f3da9282c82b31b7a40878e",
+        "uwe": "c2e7c5f204d2783f2ea6238d47a2742e18e0666986a7f87ba74eceddd50691c5",
+        "upm": "b3be152e24e924d51ebc925c149465f658323c859e8dc4c7b8c14b9b3306e674"
+      },
+      "macos": {
+        "upm": "fdc727d984ea8a0a1d33ad8f81b2dbe4b313ffd33d40cec1595b870131d687a2",
+        "uwe": "e05d282de8bf5423aac35563456825b9cf21c094169851f8a459a9c3b2a8b940",
+        "uvm": "c9f5095071abd679be04eb17d3e25906ad1b709d952722eb0f9e32b846182c92"
+      }
+    },
+    "0.40.13": {
+      "linux": {
+        "upm": "1c583e5d9699e85cede330a1a29e9824350a26652f44a87a35931c3071311f2e",
+        "uvm": "ba38205c64b555bd9b3f7b31572b7095f3e486b674941a71da08b9436a8df243",
+        "uwe": "ba0978e94a7bf9c379e1c5441dd15893c234dea8de95d6466d75b0bec0d96330"
+      },
+      "macos": {
+        "upm": "1dd064b7f377d76488ba2fca2f3f982c3f11d0dae19924646f47e10e206d52ec",
+        "uvm": "e6601d56b455334fcb2e103cc0484dce1f1f80300ecbee9dca4723f162cdc399",
+        "uwe": "5241112fb38388c10e97d3ecb89951c62a72cbf1e52986a01e9e27855ab4e6d3"
+      }
+    },
+    "0.40.16": {
+      "linux": {
+        "uwe": "9fce68ac17cdca2f0b71c413f0801ed024588b24dd18190ab820ddd214b8644b",
+        "upm": "48c2a191a029e1f916250b85753f7702bf83de4c25b440504b0fdbdb038a9191",
+        "uvm": "31b8b630a6ac1a55744abddbfc1a3140303f8d942290345864cd207509062fec"
+      },
+      "macos": {
+        "upm": "50225dbb3a9a8177de91f95513e7ddbd7b8914417619c33808701a8295f848d8",
+        "uvm": "587a0f1df5d6c37346ba556694eace31333a151d246c7dc482aa4228aef9d6e1",
+        "uwe": "24127762d8ef9ce233120c3e73fe7434d6986fae2efd6dd19eace8c5f38443e7"
+      }
+    },
+    "0.40.17": {
+      "linux": {
+        "upm": "e141cf17fdd1218444e34da0acf0dc341dee6e10eccfb3e2a0561dc2a1e955ca",
+        "uwe": "37caecdc26bb2bb2da1f2fd64c091f7e6f2930d0d651cff113169524e5a5f9f3",
+        "uvm": "c8f6ceb656edd92cf2ba98005b9e96dda3edb54d158352b73e6efcc82acd52dc"
+      },
+      "macos": {
+        "upm": "94947a9247d5f7cf6821baa0649bb36fc0a445846cf8f4d6bf612c1d53beffef",
+        "uwe": "47ec3cae6e12f6542bda659415c833452da9c15663f0fc2f02397a3ed765e921",
+        "uvm": "edb8840bb5e1d8b0d6385796107d364a6e225ad677b005e0cfa697619369ea79"
+      }
+    },
+    "0.40.18": {
+      "macos": {
+        "uwe": "91080d9b82778abdf5a0f02cdd5c9ed3ef1c464577f22adbdf145664a13c3260",
+        "upm": "b79a6689be627cc626272709ad1a6a01c06973d9029602efe04878ca11298b80",
+        "uvm": "4c2b8a9a66e2bc1af9d5c26658b79c8fa4876718df9521d09b3252b54c4d64f3"
+      },
+      "linux": {
+        "uwe": "1aa594eeb9543025c50a91d2a30745ebc4436f418945beb508361ec1e2d89e7c",
+        "uvm": "d80c49073e4062ffd0733cf10eb969f1460a89cb0bf24c880851fd4440c74a82",
+        "upm": "f12555e97a24b131530970e9f7b3dd7dd81763563ebc13b11ddc9b08c6a382c3"
+      }
+    },
+    "0.40.20": {
+      "linux": {
+        "uwe": "a0f15abb208f051dd2d428dc7d2b04be3971a0af762eaffa52d4fdce16a08518",
+        "upm": "e8dcd315763843bf5db45fea88e8b5fb1490c6b17f22791d30c049e46c74ee8b",
+        "uvm": "768f61edec5479a4d905a262f0537a692bd66e1d5fe7a2bfce3fd14327a3f7cf"
+      },
+      "macos": {
+        "uvm": "4d956175b06b3b3e9dccb703478463b9b0a750104f427b459740aa87978cd2ca",
+        "uwe": "1c5a4ef85231fd08f83d8394d1fbe5db60eea4acab90ec9fd5d9e7eae6d830a7",
+        "upm": "ff32763002eb0a5b688cca20d6081029b6b8c229c4b6d37f8f681ae9f4228b69"
+      }
+    },
+    "0.40.21": {
+      "linux": {
+        "uvm": "627987115b87c94b8fb6be2cb81910d8a7e4e9748a456ba9a01e77f8afabad66",
+        "upm": "40e1833411ba8e9a2021f13215be4462f0f6943156237a4b9f36d1c436d4ecd2",
+        "uwe": "1ccc3e2104c2eaa1118f4f0bf9557ab2fea6f979ae25133fb601283f0f22f77e"
+      },
+      "macos": {
+        "upm": "f179690544a8fb07075142300fccd49bd36d35cfcf79e7ce5d823a789d111dfe",
+        "uvm": "7d5075e023c5861e26f784517436855fd3a5ef3e1d6f2d1773c77ccfb28b77f0",
+        "uwe": "7ef6cea40dbc95a26dbbaa13943c3817ab80f6f1490b47c5183e7b4a8cbeab65"
+      }
+    },
+    "0.40.22": {
+      "linux": {
+        "uvm": "9bf7a65300e374fe041c36f71774fd443749a34ce34f7bec00f176f299136e06",
+        "upm": "ad307984209cc76578c759d0cf4356156ea0e54925144c6c22e7b74718319d1d",
+        "uwe": "94fe4fef5e4cb8b4efd174084a9969f8b1d693e38bbd697c7c7cef4023061514"
+      },
+      "macos": {
+        "upm": "cd5cf98483f7fcde915312496b8ade26c84757cafce094b4ad62a9636c042c68",
+        "uwe": "7359706c496f79b7cbfa7c1401001cca32591bb20bdd3f05a988217a33f0827a",
+        "uvm": "ea911baa24360a3d62798f8cc6e3a7c4283567109e24f6a775bc5707eeb0344b"
+      }
+    },
+    "0.40.26": {
+      "linux": {
+        "upm": "8f91e1ec939659d64fc6d4e2eafe14a17ac0a89cf502dbed7ccf5bb5ba696e62",
+        "uwe": "7d5b23bd6e26858c47e75a66417210b30b04928c3396a1e00ea9876cde76e75d",
+        "uvm": "d2222c587d3d3702f3cc4048656e1be7621bb4cd8983f02112a7f41e2c763ff4"
+      },
+      "macos": {
+        "upm": "f6dcc7aaa7c4802bb134b16f76f5ea07290fe1129b7bde42fe19a6fef0b0d2a2",
+        "uvm": "1803f148a1455a6b878695f970c7067d8020b53e1b9354ca215a170902d2cacd",
+        "uwe": "67fd7ed87e7e286f846248931f247bca0095e1681d1f985c34eec52a9c9c7949"
+      }
+    },
+    "0.40.27": {
+      "linux": {
+        "uvm": "8ca0c58d0f0d5d3988f3c08b0c2db39c9a772d0499d81fb35fea2eed6834f8ba",
+        "upm": "fe759a631f8eae359b5dbf5629497eac781761ad4e1a450ccc14dd666be8f6bc",
+        "uwe": "20de4fd692490547d3a5184e7e81ef5d8c17ce84c91b52176acf25d7e942e999"
+      },
+      "macos": {
+        "uwe": "92fecdd59671f8cfa45095e60e8d7a42ce4d7a8c6b7555e89f1a5b9a8684253e",
+        "upm": "894f06b9784a6801bb94a7bf229aa280b84c4188275ca6832a838e53d744e4c9",
+        "uvm": "379e0e3e9b6798a4497b713628aa95ae16e7cbe6756d8e1f6ce0487b3eac1242"
+      }
+    },
+    "0.40.28": {
+      "linux": {
+        "uvm": "5ff6214900ce18409cedb63e7089b8fe2b9958e9fd032a2fe01bb7e89c51dcd1",
+        "upm": "cf593fe46174ab221271cc376afa9c537dd6752bae0d4f237b5d6574c467b791",
+        "uwe": "668852f75f3564351f284686a30ae4d1392e16afa1f14d8613bbfcaee94db50c"
+      },
+      "macos": {
+        "upm": "fbd107db9e77353a0b3ba674accf6c1d144427000cc780f4a5a4dd225236e016",
+        "uvm": "b223b3ec7380853bc8ffc10e87d6d6bdd9d6a58cfc4b6596bc31d248536bafc0",
+        "uwe": "c2c184115797a56196f8865781ec9095164e5ccf4333ca19b229cadd7ca4b136"
+      }
+    },
+    "0.40.29": {
+      "macos": {
+        "upm": "28e03ca56fe0ea31919a12fcfb23063d10fe7798fb8a653ddd022a0a0dd94a62",
+        "uwe": "5397a484e8cb2e7acaa79669c085f3d2d498f60c0d7875e92a7f90e732218287",
+        "uvm": "9ef5dd1c75f0d39221eb167a856840bc14c3cc8e648343d81dfb5015ace5a98b"
+      },
+      "linux": {
+        "uvm": "8220669ec4fb7286fe8d58d3039c95807ade382be7e87cee33bf2c06a2e5b16d",
+        "uwe": "06f41c46fb7b07d34f72194e12f3c33985171aa0eb41518bcdfbc991d7fa4d0d",
+        "upm": "2b2eb651e026d215c5f2dcdd15543577eac08a307870a3854dffd2eb24584a5e"
+      }
+    },
+    "0.40.30": {
+      "macos": {
+        "uvm": "21e4cc5bbc1be4f607a94419d860faf8dc15e6d4d942582c13fe664ddab2e48b",
+        "upm": "c809468c57a1f7b174540cfd8477bda40e03c8a34b3ecb3080f4f54c50efab0d",
+        "uwe": "e25310715513cb90f3cdb686ed65a72c96d25a9bbc6e509222459575cf5f9b92"
+      },
+      "linux": {
+        "upm": "4516bb41a8be74ebb85eeeaaa73b52aa5a4719d29ecd09d6837a2abc13ba8dbd",
+        "uwe": "42ab62cc9aa9c5ebf49c497d3bf5766cee66d568211e8cd9e060d200c22069c7",
+        "uvm": "4a4e8b3d83760bc0200fa03c2049ef1699548cc9173821171582121bc98a546d"
+      }
+    },
+    "0.40.31": {
+      "macos": {
+        "uvm": "34a6d78f591c37f1494936ba58eb859301fb66f954702723207f784dc5e8025c",
+        "upm": "84a5372778889d9e920a03fe56dd5c4ec9827cbff66f187b3cf8dd6bb7ca60dd",
+        "uwe": "8e3386d05357de96d1066be8d493a6dd5bd58ff162c68ed45d77e3b569f1392f"
+      },
+      "linux": {
+        "uwe": "7a9f7142252c1d9a5cbc395c1b50886dd5e2c907cde9c31e9b00f1d7cc47640f",
+        "uvm": "225d700c9d30f684e9a9ff8efb39fcf8a88735e07bf0e596392a4756028fef05",
+        "upm": "042ef85d6453fcbb0fc704c326eaaf2cced814cd02a5217362166da0cdeb530a"
+      }
+    },
+    "0.40.32": {
+      "macos": {
+        "uvm": "62c79e2f80f0f594170298829a9ae6c276bdbd1d71feac1e344d422ee0729e80",
+        "uwe": "64c6690e58a62e84ee235ca6cedcc2ac9bb9f061896f7f2157ddf43ced45606d",
+        "upm": "fce73bbd00c551dfe41eb8973302b2212bf5396412d3cadb821180c578b01773"
+      },
+      "linux": {
+        "uwe": "b52f576b3479bd226837eb776b966707a0a089a9668da15bf900450a5c82e11e",
+        "uvm": "997427f87e2c6ada117cba7d9163a526cb13a694bb88e85eaf319326a69850f3",
+        "upm": "30be1d3fdbb8b020046bb5423b9c7bf5c4d0aa71c66187b108fed3e6b7188171"
+      }
+    },
+    "0.41.0": {
+      "macos": {
+        "uwe": "35e8996e631a4a7041bb76ab5dd8ffbb3b3ff31e55461aa3d82e0fa4ec4bf855",
+        "upm": "e36709a290b57ea9b100fa303b08bf1f56e5959a811137d6c3a8316df7f76c95",
+        "uvm": "b8b1fc3c8de7c4445848d8b8aa7d6fbd4d3a22be3600aa608727baa7dc009646"
+      },
+      "linux": {
+        "uvm": "16d5d6ef7283fbfdbbca3d31a3bf1662d86f40969b6a6beef43db8e7c2bb803a",
+        "upm": "0f885bede7cbb152efdc6e976afe731bd34b0c5ea8cf1ad7062e67b150a16310",
+        "uwe": "bb4af48947f73d74b5ca3fbeaa5f193cfd4c1de8a39d8ed639fff34a5ca0b592"
+      }
+    }
+  }
+}
