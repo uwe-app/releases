@@ -3,17 +3,33 @@
     "0.42.5": {
       "linux": {
         "uwe-shim": "6a0d174f3a7add67627b667bddc06281f1e0c5f6d6bb9ea1a43b0b5a5d9eea18",
-        "uwe": "b73ec5fccea74dee26834a213cef80ebd6fb6d955d6bd10931589f4609ab3ca2",
         "upm": "86560039576d82fef6885015da379bd48bcf9304e3d895c1e2850756e8a16904",
-        "upm-shim": "0093c6dafe92b0dae45f62eba9561ebcc66232a710c543834d1ce00b502869fb",
-        "uvm": "a53f729669d63ed5596ef54afe40f359a23155eaf75972c91e4ea7e91d79a5eb"
+        "uvm": "a53f729669d63ed5596ef54afe40f359a23155eaf75972c91e4ea7e91d79a5eb",
+        "uwe": "b73ec5fccea74dee26834a213cef80ebd6fb6d955d6bd10931589f4609ab3ca2",
+        "upm-shim": "0093c6dafe92b0dae45f62eba9561ebcc66232a710c543834d1ce00b502869fb"
       },
       "macos": {
-        "uwe": "7057190af17fe8985e52c06a9953d568c9893a486cbd3f06d0c6d5effe7cd742",
+        "upm-shim": "e28ee3c552972b69fc3f6612ddbed8d6f3d05d193d05f1eaf0d53f48cbe0e08b",
         "uvm": "6a3b28ae296f0d250c5c5bd9bd277f6765878a778aa81e45dc6696126eb0010a",
         "uwe-shim": "133093d06617289fe7fb0b8a9880dc2992d59cca045612de0f3559437447d75c",
-        "upm-shim": "e28ee3c552972b69fc3f6612ddbed8d6f3d05d193d05f1eaf0d53f48cbe0e08b",
+        "uwe": "7057190af17fe8985e52c06a9953d568c9893a486cbd3f06d0c6d5effe7cd742",
         "upm": "0f8c1771fed7d83918d5724bc655f4e9fb2169e9fb41be573548e4c9614350cb"
+      }
+    },
+    "0.42.6": {
+      "macos": {
+        "upm": "5c7dc17f3f5711b861cd696974b5be5081dcc509eb56209976c7664b3729b876",
+        "upm-shim": "5e4c2fa656f77e7477226bfa6349bd478dced2420d7105057e0357c573cabacb",
+        "uwe-shim": "e4abe8a2cb820d1bd5981274d0bd7c94c791e4ed673e7486e2fbfc83a226110c",
+        "uwe": "e29a262d6544ec096fbf6a4e30b5711b51ba82f92d76358ff4e48b69d44f8ea4",
+        "uvm": "0af52c8f40f1294062bb5be8bcc96301af2b24ecd7a044950769ebe9960ff868"
+      },
+      "linux": {
+        "upm-shim": "78e82c97ef7a2e6b839a8a4052f6cb75162693288df3621de46cf56225881d2b",
+        "uvm": "a7682b9f28894c66c8bb79365296d0ba2203e804b239c290fdf05f4142edeea2",
+        "uwe": "241a449dbcbeec072f4fc0647a4fb64c88c2a34055cf5f56baa991024d304895",
+        "upm": "1d43e2b82474468625a37c2dcc7e1da894c60cdb80e1223ea4cc6caf936633b3",
+        "uwe-shim": "ba56bb71b505eb42ef274e8ff029d5075fb5d676d4cda114d0075773a353f93a"
       }
     }
   }
