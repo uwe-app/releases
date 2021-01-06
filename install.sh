@@ -32,7 +32,7 @@ esac
 command -v curl > /dev/null || fatal "Curl is required to use the install.sh script";
 mkdir -p "${BIN}" || fatal "Could not create bin directory ${BIN}";
 
-URL="https://release.uwe.app/latest/${OS}/uvm";
+URL="https://releases.uwe.app/latest/${OS}/uvm";
 echo "Download ${URL}";
 
 (cd "${BIN}" && curl -OL --fail --progress-bar "${URL}" || fatal "Download failed")
