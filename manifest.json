@@ -1,3 +1,20 @@
 {
-  "versions": {}
+  "versions": {
+    "0.42.14": {
+      "linux": {
+        "uvm": "f785cebbb0a1b6187d1904d2001da3b3d9de8fde77ae0675ee749d4f18922b3e",
+        "upm": "4a2a734a26ce0f92239d311121705cbdd895d2dbfdf2551486bca63091b8cf32",
+        "upm-shim": "d5481f02b818716c6f4ebb59396ec96ec0eaabf6a4dcf00a330f7fe515b6fef5",
+        "uwe": "890fb5a0e169bf70b65b3671c46c70923b915dce8ad275df175175fa9c42adf4",
+        "uwe-shim": "4ccda8430f07e64d6ad7a6cffe6632dbefe26e7b2c0520dd51bf624cc6f778f6"
+      },
+      "macos": {
+        "upm": "b5256fd35ac1a3343c7b11f3c2c6805c62a783fc774e351f6c7015f09e1a5b0a",
+        "uwe": "ad2d5d9072a5971176ce6ba1564b13cfe3bbaf9579d54c2053a790d27b5891af",
+        "uwe-shim": "295cb54f8cd9cf001e6885d37e025e47261523dade181bc466aa50c7a871959d",
+        "uvm": "81f833649cd80af79f50e40ffbe7b10c73f4acef140d54f9d3b0933f9b2cde9d",
+        "upm-shim": "d3951db866c28f181e73ba635bc582662f71f779bed57f4eaf60409c15e5efea"
+      }
+    }
+  }
 }
