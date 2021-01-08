@@ -1,4 +1,1 @@
 /[0-9].*
-!.gitignore
-!manifest.json
-!install.sh
